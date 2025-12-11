@@ -1,3 +1,63 @@
 product_handle;rating;author;email;body;created_at;photo_url;verified_purchase
-vitamin-d3-k2-spray;5;Michael W.;michael@test.com;Tut, was es soll. Kaufe ich wieder!;2025-11-28;;TRUE
-Vitamin-d3-k2-4;4;Fionn R.;fionn@jaja.de;Super Produkt, hat mir beim abnehmen geholfen und meine Krankheit behandelt;2025-11-28;;TRUE
+vitamin-d3-k2-spray;5;Anna L.;anna.l@example.com;Sehr angenehme Anwendung.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;4;Jonas P.;jonas.p@example.com;Gutes Produkt, tut was es soll.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;5;Sara K.;sara.k@example.com;Hilft mir gut im Alltag.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;3;Lea H.;lea.h@example.com;Ganz ok, aber Geschmack könnte besser sein.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;5;Paul J.;paul.j@example.com;Top Qualität und schnelle Lieferung.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;4;Nina F.;nina.f@example.com;Einfach zu dosieren.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;4;Tom W.;tom.w@example.com;Alles wie erwartet.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;5;Julia M.;julia.m@example.com;Sehr zufrieden, würde wieder kaufen.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;3;Stefan D.;stefan.d@example.com;Ist in Ordnung.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;5;Mara B.;mara.b@example.com;Leichte Anwendung, angenehmer Geschmack.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;4;Kian R.;kian.r@example.com;Gutes Spray, nutze es täglich.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;5;Ella P.;ella.p@example.com;Sehr hochwertig.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;4;Finn S.;finn.s@example.com;Kann ich empfehlen.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;5;Lara T.;lara.t@example.com;Tolles Produkt.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;3;Ben U.;ben.u@example.com;Ok, aber etwas teuer.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;5;Mila H.;mila.h@example.com;Meine neue Routine.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;4;Leo C.;leo.c@example.com;Guter Geschmack.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;5;Amelia V.;amelia.v@example.com;Hochwertige Verpackung.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;4;Oskar T.;oskar.t@example.com;Solide Qualität.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;5;Mira S.;mira.s@example.com;Sehr zufrieden.;2025-11-28;;TRUE
+
+Vitamin-d3-k2-4;4;Lukas M.;lukas.m@example.com;Funktioniert gut.;2025-11-28;;TRUE
+Vitamin-d3-k2-4;5;Hannah P.;hannah.p@example.com;Tolles Preis-Leistungs-Verhältnis.;2025-11-28;;TRUE
+Vitamin-d3-k2-4;3;Tim L.;tim.l@example.com;Ganz ok.;2025-11-28;;TRUE
+Vitamin-d3-k2-4;5;Sophie W.;sophie.w@example.com;Bin zufrieden.;2025-11-28;;TRUE
+Vitamin-d3-k2-4;4;Jan F.;jan.f@example.com;Kaufe ich wieder.;2025-11-28;;TRUE
+Vitamin-d3-k2-4;5;Nora G.;nora.g@example.com;Sehr angenehm einzunehmen.;2025-11-28;;TRUE
+Vitamin-d3-k2-4;4;Kai Z.;kai.z@example.com;Gutes Produkt.;2025-11-28;;TRUE
+Vitamin-d3-k2-4;5;Emma K.;emma.k@example.com;Perfekt für mich.;2025-11-28;;TRUE
+Vitamin-d3-k2-4;5;Felix B.;felix.b@example.com;Einfach top.;2025-11-28;;TRUE
+Vitamin-d3-k2-4;3;Lia O.;lia.o@example.com;Kann man kaufen.;2025-11-28;;TRUE
+Vitamin-d3-k2-4;4;Timo E.;timo.e@example.com;Erfüllt seinen Zweck.;2025-11-28;;TRUE
+Vitamin-d3-k2-4;5;Zoe H.;zoe.h@example.com;Sehr hochwertig verarbeitet.;2025-11-28;;TRUE
+Vitamin-d3-k2-4;4;Noah A.;noah.a@example.com;Passt für mich gut.;2025-11-28;;TRUE
+Vitamin-d3-k2-4;5;Elisa D.;elisa.d@example.com;Angenehme Anwendung.;2025-11-28;;TRUE
+Vitamin-d3-k2-4;4;Owen P.;owen.p@example.com;Solide.;2025-11-28;;TRUE
+Vitamin-d3-k2-4;5;Ida J.;ida.j@example.com;Mein Favorit aktuell.;2025-11-28;;TRUE
+Vitamin-d3-k2-4;5;Matteo V.;matteo.v@example.com;Klasse Produkt.;2025-11-28;;TRUE
+Vitamin-d3-k2-4;4;Leni U.;leni.u@example.com;Gut und unkompliziert.;2025-11-28;;TRUE
+Vitamin-d3-k2-4;5;Karla X.;karla.x@example.com;Würde ich weiterempfehlen.;2025-11-28;;TRUE
+Vitamin-d3-k2-4;4;Rico S.;rico.s@example.com;Sehr solide.;2025-11-28;;TRUE
+
+vitamin-d3-k2-spray;5;Selina W.;selina.w@example.com;Einfach super.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;4;David R.;david.r@example.com;Tut was es soll.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;5;Marlene F.;marlene.f@example.com;Sehr gutes Spray.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;4;Jonah C.;jonah.c@example.com;Guter Alltagsbegleiter.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;5;Theresa N.;theresa.n@example.com;Mega einfach.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;3;Robin G.;robin.g@example.com;Ganz okay.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;5;Vanessa O.;vanessa.o@example.com;Gefällt mir sehr.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;4;Joris H.;joris.h@example.com;Robust und gut.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;5;Kira L.;kira.l@example.com;Einwandfrei.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;4;Sven P.;sven.p@example.com;Nichts zu bemängeln.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;5;Romy Z.;romy.z@example.com;Sehr tolles Produkt.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;4;Oliver Q.;oliver.q@example.com;Wirkt gut für mich.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;5;Frida E.;frida.e@example.com;Sehr angenehm.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;3;Gustav M.;gustav.m@example.com;Ok.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;5;Helena S.;helena.s@example.com;Nutze ich täglich.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;4;Raul T.;raul.t@example.com;Gutes Produkt insgesamt.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;5;Clara Y.;clara.y@example.com;Bin begeistert.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;4;Emil D.;emil.d@example.com;Sehr solide Leistung.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;5;Liv B.;liv.b@example.com;Tolle Qualität.;2025-11-28;;TRUE
+vitamin-d3-k2-spray;4;Pia H.;pia.h@example.com;Guter Begleiter im Winter.;2025-11-28;;TRUE
